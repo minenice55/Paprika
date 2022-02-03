@@ -1,0 +1,2 @@
+# Paprika
+compiler for TickScript
